@@ -1,0 +1,70 @@
+.feedback-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: #5C3A21; /* dark brown text */
+  background-color: #FAF0E6; /* a very light brown/beige background */
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(92, 58, 33, 0.3);
+}
+
+.feedback-title {
+  color: #7B4F24; /* medium brown */
+  margin-bottom: 15px;
+}
+
+.feedback-error {
+  color: #A52A2A; /* brownish red for errors */
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.feedback-success {
+  color: #6B4226; /* warm brown for success */
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.feedback-form .form-group {
+  margin-bottom: 15px;
+}
+
+.input-field,
+.textarea-field {
+  width: 100%;
+  padding: 8px;
+  border: 2px solid #7B4F24;
+  border-radius: 4px;
+  font-size: 1rem;
+  color: #5C3A21;
+  background-color: #FFF8F0;
+  transition: border-color 0.3s ease;
+}
+
+.input-field:focus,
+.textarea-field:focus {
+  border-color: #A0522D; /* sienna */
+  outline: none;
+  background-color: #FFF5E1;
+}
+
+.submit-button {
+  background-color: #7B4F24;
+  color: #FFF8F0;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.submit-button:hover:not(:disabled) {
+  background-color: #A0522D;
+}
+
+.submit-button:disabled {
+  background-color: #D2B48C;
+  cursor: not-allowed;
+}
