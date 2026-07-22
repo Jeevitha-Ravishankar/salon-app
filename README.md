@@ -140,11 +140,6 @@ The application implements secure authentication using **JSON Web Tokens (JWT)**
 
 ---
 
-# 📸 Application Screenshots
-
-> Added screenshots inside a folder named **screenshots** 
-
----
 
 # 📦 Dependencies
 
@@ -185,7 +180,6 @@ The application implements secure authentication using **JSON Web Tokens (JWT)**
 
 **Jeevitha R**
 
-# 📄 License
 
 This project is developed for educational and learning purposes.
 
