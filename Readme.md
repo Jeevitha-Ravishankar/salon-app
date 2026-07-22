@@ -142,19 +142,7 @@ The application implements secure authentication using **JSON Web Tokens (JWT)**
 
 # 📸 Application Screenshots
 
-> Add screenshots inside a folder named **screenshots** and replace the paths below.
-
-| Home | Login |
-|------|-------|
-| ![](screenshots/home.png) | ![](screenshots/login.png) |
-
-| Register | Dashboard |
-|-----------|-----------|
-| ![](screenshots/register.png) | ![](screenshots/dashboard.png) |
-
-| Appointment | Feedback |
-|-------------|----------|
-| ![](screenshots/appointment.png) | ![](screenshots/feedback.png) |
+> Added screenshots inside a folder named **screenshots** 
 
 ---
 
